@@ -1,20 +1,32 @@
 <h1 align="center">Olá! Eu sou o Mayron 👋</h1>
 
 <p align="center">
-  Estudante de Ciência da Computação • Desenvolvedor em formação • Foco em Web, Sistemas e Back-end
+  Estudante de Ciência da Computação construindo projetos, explorando conceitos e aplicando ideias em sistemas reais.
 </p>
 
 ---
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
 ## Sobre mim
 
-🎓 Estudante de Ciência da Computação — 5º período  
-💻 Desenvolvendo projetos acadêmicos e práticos  
-🚀 Buscando estágio remoto em desenvolvimento  
-📌 Interesse em sistemas web, back-end, bancos de dados e automação  
-🧠 Sempre aprendendo e evoluindo com projetos reais  
+- 🎓 Estudante de Ciência da Computação
+- 💼 Buscando estágio em desenvolvimento
+- 💻 Desenvolvendo projetos acadêmicos
+- 🌐 Interesse em sistemas web, back-end e bancos de dados
 
----
+<br>
+
+<div align="center">
+
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Mayron603&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=FFFFFF" />
+
+</div>
+
+</td>
+<td width="50%" valign="top">
 
 ## Tecnologias & Ferramentas
 
@@ -22,54 +34,54 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,mysql,git,github,vscode" />
 </p>
 
----
+<br>
 
 ## Projetos em destaque
 
-### 🏢 Condofácil
+### Condofácil  
 Sistema voltado para gestão de condomínios, com foco em organização de moradores, processos internos e controle administrativo.
 
-🔗 Repositório: [Condofácil](https://github.com/Mayron603/condofacil)
+<a href="https://github.com/Mayron603/condofacil">
+  <img src="https://img.shields.io/badge/Ver%20repositório-Condofácil-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-### 🌆 Conecta Muriaé
+<br><br>
+
+### Conecta Muriaé  
 Plataforma para conectar talentos locais com empresas de Muriaé e região.
 
-🔗 Repositório: [Conecta Muriaé](https://github.com/Mayron603/Conecta-Muriae)
+<a href="https://github.com/Mayron603/Conecta-Muriae">
+  <img src="https://img.shields.io/badge/Ver%20repositório-Conecta%20Muriaé-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-### 🚔 LSPD
-Sistema para FiveM com foco em funcionalidades policiais e administrativas.
-
-🔗 Repositório: [LSPD](https://github.com/Mayron603/LSPD)
+</td>
+  </tr>
+</table>
 
 ---
+
+<div align="center">
 
 ## Estatísticas
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mayron603&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayron603&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mayron603&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayron603&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" />
+
+</div>
 
 ---
 
-## Certificações
-
-<p align="left">
-  <!-- Exemplo de badge do repositório da Malu -->
-  <a href="LINK_DO_SEU_CERTIFICADO" target="_blank">
-    <img src="https://assets.dio.me/3AhYHwCLLIqipeT3zQkczwIICNK7OOE4m6w3JIlU0GM/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvMjczODRmYTktYTFhZC00YmUzLWI3NDEtY2FjMTNmMTUyNzI5LnBuZw" height="105"/>
-  </a>
-</p>
-
----
+<div align="center">
 
 ## Contato
 
-<p align="left">
-  <a href="https://github.com/Mayron603">
-    <img src="https://img.shields.io/badge/GitHub-Mayron603-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="SEU_LINKEDIN_AQUI">
-    <img src="https://img.shields.io/badge/LinkedIn-Mayron-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+<a href="https://github.com/Mayron603">
+  <img src="https://img.shields.io/badge/GitHub-Mayron603-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="SEU_LINKEDIN_AQUI">
+  <img src="https://img.shields.io/badge/LinkedIn-Mayron-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
