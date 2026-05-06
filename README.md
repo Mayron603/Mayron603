@@ -12,7 +12,7 @@
 
 ## Sobre mim
 
-- 🎓 Estudante de Ciência da Computação
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 - 💼 Buscando estágio em desenvolvimento
 - 💻 Desenvolvendo projetos acadêmicos
 - 🌐 Interesse em sistemas web, back-end e bancos de dados
