@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Mayron 👋</h1>
 
 <p align="center">
-  Estudante de Ciência da Computação construindo projetos, explorando conceitos e aplicando ideias em sistemas reais.
+  Estudante de Análise e Desenvolvimento de Sistemas
 </p>
 
 ---
