@@ -20,9 +20,10 @@
 <br>
 
 <div align="center">
-
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Mayron603&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=FFFFFF" />
-
+  <img 
+    height="160" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Mayron603&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=FFFFFF" 
+  />
 </div>
 
 </td>
@@ -64,9 +65,22 @@ Plataforma para conectar talentos locais com empresas de Muriaé e região.
 
 ## Estatísticas
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mayron603&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" />
+<img 
+  height="165" 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mayron603&theme=github_dark" 
+/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayron603&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" />
+<img 
+  height="165" 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mayron603&theme=github_dark" 
+/>
+
+<br><br>
+
+<img 
+  width="90%" 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mayron603&theme=github_dark" 
+/>
 
 </div>
 
@@ -80,8 +94,8 @@ Plataforma para conectar talentos locais com empresas de Muriaé e região.
   <img src="https://img.shields.io/badge/GitHub-Mayron603-181717?style=for-the-badge&logo=github" />
 </a>
 
-<a href="SEU_LINKEDIN_AQUI">
-  <img src="https://img.shields.io/badge/LinkedIn-Mayron-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/mayron-silvestre/">
+  <img src="https://img.shields.io/badge/LinkedIn-Mayron%20Silvestre-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
