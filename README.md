@@ -22,7 +22,7 @@
 <div align="center">
   <img 
     height="160" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Mayron603&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=FFFFFF" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=MayronSS&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=FFFFFF" 
   />
 </div>
 
@@ -42,7 +42,7 @@
 ### Condofácil  
 Sistema voltado para gestão de condomínios, com foco em organização de moradores, processos internos e controle administrativo.
 
-<a href="https://github.com/Mayron603/condofacil">
+<a href="https://github.com/MayronSS/condofacil">
   <img src="https://img.shields.io/badge/Ver%20repositório-Condofácil-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -51,7 +51,7 @@ Sistema voltado para gestão de condomínios, com foco em organização de morad
 ### Conecta Muriaé  
 Plataforma para conectar talentos locais com empresas de Muriaé e região.
 
-<a href="https://github.com/Mayron603/Conecta-Muriae">
+<a href="https://github.com/MayronSS/Conecta-Muriae">
   <img src="https://img.shields.io/badge/Ver%20repositório-Conecta%20Muriaé-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -67,19 +67,19 @@ Plataforma para conectar talentos locais com empresas de Muriaé e região.
 
 <img 
   height="165" 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mayron603&theme=github_dark" 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MayronSS&theme=github_dark" 
 />
 
 <img 
   height="165" 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mayron603&theme=github_dark" 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MayronSS&theme=github_dark" 
 />
 
 <br><br>
 
 <img 
   width="90%" 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mayron603&theme=github_dark" 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MayronSS&theme=github_dark" 
 />
 
 </div>
@@ -90,8 +90,8 @@ Plataforma para conectar talentos locais com empresas de Muriaé e região.
 
 ## Contato
 
-<a href="https://github.com/Mayron603">
-  <img src="https://img.shields.io/badge/GitHub-Mayron603-181717?style=for-the-badge&logo=github" />
+<a href="https://github.com/MayronSS">
+  <img src="https://img.shields.io/badge/GitHub-MayronSS-181717?style=for-the-badge&logo=github" />
 </a>
 
 <a href="https://www.linkedin.com/in/mayron-silvestre/">
